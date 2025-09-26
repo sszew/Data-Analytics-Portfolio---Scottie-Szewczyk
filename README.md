@@ -7,7 +7,7 @@ Welcome to my Data Science portfolio! This page contains links to samples of my 
 
 1. *Modeling U.S. County-level Cancer Mortality Rates: an Ordinary Least Squares (OLS) Linear Regression Model*
    - https://github.com/sszew/Linear-Regression
-   - In this project, a develop a linear regression model to predict cancer mortality rates.
+   - In this project, I develop a linear regression model to predict cancer mortality rates.
    - **Technology**: R
    - **Skills**: Linear regression, Statistical modeling, Statistical reasoning, Exploratory data analysis (EDA) 
 
