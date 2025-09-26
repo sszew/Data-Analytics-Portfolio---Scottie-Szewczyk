@@ -1,4 +1,4 @@
-# Data Analytics Portfolio -- Scottie Szewczyk
+# Data Science Portfolio -- Scottie Szewczyk
 
 
 Welcome to my portfolio! This page contains links to samples of my work using various data analytics tools.
